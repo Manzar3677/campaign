@@ -1,0 +1,11 @@
+{
+    "campaign_id": "rebranding_campaign",
+    "campaign_name": "Rebranding campaign",
+    "usersList": [
+        {
+            "id": "2093",
+            "name": "Manzar Hussain",
+            "status": "Qualified"
+        }
+    ]
+}
