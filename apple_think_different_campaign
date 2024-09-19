@@ -1,13 +1,1 @@
-{
-    "campaign_id": "apple_think_different_campaign",
-    "campaign_name": "Apple Think Different campaign",
-    "usersList": [
-        {
-            "id": "7584",
-            "name": "Bindu",
-            "status": "Rejected",
-            "start_date":"19/09/2024",
-            "end_date":"19/09/2024"
-        }
-    ]
-}
+%7B%22campaign_id%22%3A%22apple_think_different_campaign%22%2C%22campaign_name%22%3A%22Apple%20Think%20Different%20campaign%22%2C%22usersList%22%3A%5B%7B%22id%22%3A%227584%22%2C%22name%22%3A%22Bindu%22%2C%22status%22%3A%22Approved%22%2C%22start_date%22%3A%2219%2F09%2F2024%22%2C%22end_date%22%3A%2219%2F09%2F2024%22%7D%5D%7D
