@@ -1,0 +1,25 @@
+{
+    "campaignList": [
+        {
+            "id": "rebranding_campaign",
+            "name": "Rebranding campaign",
+            "api_url":"https://raw.githubusercontent.com/Manzar3677/campaign/refs/heads/main/rebranding_campaign",
+            "end_date":"11/12/2024",
+            "status": "Active"
+        },
+        {
+            "id": "email_marketing_campaign",
+            "name": "Email marketing campaign",
+            "api_url":"https://raw.githubusercontent.com/Manzar3677/campaign/refs/heads/main/email_marketing_campaign",
+            "end_date":"11/10/2024",
+            "status": "Active"
+        },
+        {
+            "id": "apple_think_different_campaign",
+            "name": "Apple Think Different campaign",
+            "api_url":"https://raw.githubusercontent.com/Manzar3677/campaign/refs/heads/main/apple_think_different_campaign",
+            "end_date":"19/09/2024",
+            "status": "Active"
+        }
+    ]
+}
