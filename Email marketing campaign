@@ -1,0 +1,11 @@
+{
+    "campaign_id": "email_marketing_campaign",
+    "campaign_name": "Email marketing campaign",
+    "usersList": [
+        {
+            "id": "9012",
+            "name": "Manideep",
+            "status": "Approved"
+        }
+    ]
+}
