@@ -1,1 +1,13 @@
-%257B%2522campaign_id%2522%253A%2522apple_think_different_campaign%2522%252C%2522campaign_name%2522%253A%2522Apple%2520Think%2520Different%2520campaign%2522%252C%2522usersList%2522%253A%255B%257B%2522id%2522%253A%25227584%2522%252C%2522name%2522%253A%2522Bindu%2522%252C%2522status%2522%253A%2522Approved%2522%252C%2522start_date%2522%253A%252219%252F09%252F2024%2522%252C%2522end_date%2522%253A%252219%252F09%252F2024%2522%257D%255D%257D
+{
+    "campaign_id": "apple_think_different_campaign",
+    "campaign_name": "Apple Think Different campaign",
+    "usersList": [
+        {
+            "id": "7584",
+            "name": "Bindu",
+            "status": "Rejected",
+            "start_date":"19/09/2024",
+            "end_date":"19/09/2024"
+        }
+    ]
+}
